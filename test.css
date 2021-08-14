@@ -62,7 +62,7 @@
 
 }
 .dbox{
-    width: 42%;
+    width: 22%;
     height: 46%;
     background-color:skyblue;
     margin: 1em;
@@ -105,16 +105,18 @@
 	
 }
 .j{
+   
+     margin-left: 1em;
     margin-top: 1em;
-    margin-left: 1em;
-    width: 44%;
-    height: 45%;
-    
+    margin-bottom: 1em;
+    margin-right: 1em;
+    width: 42%;
+    height: 44%;
 }
 .k{
     margin-left: 1em;
     margin-bottom: 1em;
-    width: 49.5%;
+    width: 48.6%;
 }
 .l{
     margin-top: 1em;
@@ -126,8 +128,8 @@
     margin-top: 1em;
     margin-bottom: 1em;
     margin-right: 1em;
-    width: 40%;
-    height: 45%;
+    width: 42%;
+    height: 44%;
  
 }
 .button{
